@@ -8,6 +8,7 @@ If you're working on similar problems or hiring, I'd be glad to connect.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/el-mehdi-boukhriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-mehdi-boukhriss" height="30" width="40" /></a>
+<a href="https://medium.com/@elmehdicyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Black/Medium_black.svg" alt="@elmehdicyber" height="30" width="40" /></a>
 </p>
 
 <!--
