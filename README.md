@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a cybersecurity engineer with 4+ years of experience across penetration testing,blue team operations, and technical audits, currently building a cloud security portfolio
+targeting Cloud Security Engineer roles.
+<p></p>
+If you're working on similar problems or hiring, I'd be glad to connect.
+<p></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/el-mehdi-boukhriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-mehdi-boukhriss" height="30" width="40" /></a>
+</p>
+
 <!--
 **ELMBoukhriss/ELMBoukhriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
