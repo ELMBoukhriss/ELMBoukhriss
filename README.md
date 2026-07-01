@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a cybersecurity engineer with 4+ years of experience across penetration testing,blue team operations, and technical audits, currently building a cloud security portfolio
-targeting Cloud Security Engineer roles.
+I'm a cybersecurity engineer with 4+ years of experience across penetration testing, blue team operations, incident response, and technical security audits. I now focus on AWS cloud security engineering, building practical solutions around IAM, detection engineering, infrastructure as code, and security automation.
 <p></p>
-If you're working on similar problems or hiring, I'd be glad to connect.
+I'm currently open to remote and relocation opportunities as a Cloud Security Engineer. If you'd like to discuss cloud security or have a relevant opportunity, I'd be happy to connect.
+<p></p>
 <p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
